@@ -28,7 +28,7 @@ I am a front-end developer and a writer. I am a student of FPT University majori
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhgiau998&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rich Nguyen's GitHub Stats" />
 </a>
 
-<a href="https://github.com/minhgiau/iftools">
+<a href="https://github.com/minhgiau998/iftools">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minhgiau998&repo=iftools&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
@@ -37,8 +37,8 @@ I am a front-end developer and a writer. I am a student of FPT University majori
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EnjoTeam&repo=enjo-front-end&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzEwNjUyMjYsLTY2NDcyMTYzMywtOD
-E0ODUyNTc3LDE1MDcxMTAzOTksMTk1OTEwNjE0NiwtODgxNTM4
-NzksMTcwNDMyMzU2LDEzMTE3NjIyMjgsLTE2OTQ2OTI3OTEsLT
-Y4NDI5NjU4N119
+eyJoaXN0b3J5IjpbMTg2NjgxODM3NiwtMTMzMTA2NTIyNiwtNj
+Y0NzIxNjMzLC04MTQ4NTI1NzcsMTUwNzExMDM5OSwxOTU5MTA2
+MTQ2LC04ODE1Mzg3OSwxNzA0MzIzNTYsMTMxMTc2MjIyOCwtMT
+Y5NDY5Mjc5MSwtNjg0Mjk2NTg3XX0=
 -->

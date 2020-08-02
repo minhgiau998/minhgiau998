@@ -17,10 +17,11 @@ I am a front-end developer and a writer. I am a student of FPT University majori
 ## Github Stats 📊
 
 <a href="https://github.com/minhgiau998/minhgiau998">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhgiau998&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhgiau998&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
 <a href="https://github.com/minhgiau998/minhgiau998">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhgiau998&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhgiau998&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rich Nguyen's GitHub Stats" />
 </a>
 
 <a href="https://github.com/minhgiau/iftools">
@@ -32,7 +33,7 @@ I am a front-end developer and a writer. I am a student of FPT University majori
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EnjoTeam&repo=enjo-front-end&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDg1MjU3NywxNTA3MTEwMzk5LDE5NT
-kxMDYxNDYsLTg4MTUzODc5LDE3MDQzMjM1NiwxMzExNzYyMjI4
-LC0xNjk0NjkyNzkxLC02ODQyOTY1ODddfQ==
+eyJoaXN0b3J5IjpbLTY2NDcyMTYzMywtODE0ODUyNTc3LDE1MD
+cxMTAzOTksMTk1OTEwNjE0NiwtODgxNTM4NzksMTcwNDMyMzU2
+LDEzMTE3NjIyMjgsLTE2OTQ2OTI3OTEsLTY4NDI5NjU4N119
 -->

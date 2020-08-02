@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+![minhgiau998-banner.png](https://github.com/minhgiau998/minhgiau998/blob/master/minhgiau998-banner.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTc0MjgwOV19
+eyJoaXN0b3J5IjpbLTQ5Mzg2OTM0OV19
 -->

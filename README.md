@@ -7,7 +7,7 @@ I am a front-end developer and a writer. I am a student of FPT University majori
 
 ## Technologies
 
-
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
 ## Github Stats 📊
 
@@ -27,7 +27,7 @@ I am a front-end developer and a writer. I am a student of FPT University majori
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EnjoTeam&repo=enjo-front-end&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzM5MTcwODMsMTk1OTEwNjE0NiwtOD
-gxNTM4NzksMTcwNDMyMzU2LDEzMTE3NjIyMjgsLTE2OTQ2OTI3
-OTEsLTY4NDI5NjU4N119
+eyJoaXN0b3J5IjpbMTUwNzExMDM5OSwxOTU5MTA2MTQ2LC04OD
+E1Mzg3OSwxNzA0MzIzNTYsMTMxMTc2MjIyOCwtMTY5NDY5Mjc5
+MSwtNjg0Mjk2NTg3XX0=
 -->

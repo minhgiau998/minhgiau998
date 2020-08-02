@@ -7,9 +7,9 @@ I am a front-end developer and a writer. I am a student of FPT University majori
 
 ## Technologies
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=lightgrey)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio&logoColor=white&color=informational)
 
 ## Github Stats 📊
 
@@ -29,7 +29,7 @@ I am a front-end developer and a writer. I am a student of FPT University majori
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EnjoTeam&repo=enjo-front-end&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTU3NDUyMTQsMTUwNzExMDM5OSwxOT
+eyJoaXN0b3J5IjpbLTEyNjkyODAxODAsMTUwNzExMDM5OSwxOT
 U5MTA2MTQ2LC04ODE1Mzg3OSwxNzA0MzIzNTYsMTMxMTc2MjIy
 OCwtMTY5NDY5Mjc5MSwtNjg0Mjk2NTg3XX0=
 -->

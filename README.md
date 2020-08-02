@@ -16,7 +16,7 @@ I am a front-end developer and a writer. I am a student of FPT University majori
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=bl)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=black)
 
 ## Github Stats 📊
 
@@ -37,8 +37,8 @@ I am a front-end developer and a writer. I am a student of FPT University majori
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EnjoTeam&repo=enjo-front-end&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDc2Mjc1MywtNjY0NzIxNjMzLC04MT
-Q4NTI1NzcsMTUwNzExMDM5OSwxOTU5MTA2MTQ2LC04ODE1Mzg3
-OSwxNzA0MzIzNTYsMTMxMTc2MjIyOCwtMTY5NDY5Mjc5MSwtNj
-g0Mjk2NTg3XX0=
+eyJoaXN0b3J5IjpbLTEzMzEwNjUyMjYsLTY2NDcyMTYzMywtOD
+E0ODUyNTc3LDE1MDcxMTAzOTksMTk1OTEwNjE0NiwtODgxNTM4
+NzksMTcwNDMyMzU2LDEzMTE3NjIyMjgsLTE2OTQ2OTI3OTEsLT
+Y4NDI5NjU4N119
 -->

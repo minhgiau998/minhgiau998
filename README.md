@@ -5,6 +5,8 @@
 
 I am a front-end developer and a writer. I am a student of FPT University majoring in Information Security. I am also the author of the blog site at the FIA ​​club and also the author of the book Black Python.
 
+My CV: https://www.topcv.vn/xem-cv/WFMAAQdXVQQBCA4FAFZRA1JRVldWBQ0DBwBSUgd622
+
 ## Technologies
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=lightgrey)

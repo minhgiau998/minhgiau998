@@ -1,4 +1,4 @@
-# Hi there, I'm Nguyen Minh Giau (GiauNM) 👋
+# Hello World, I'm Nguyen Minh Giau (GiauNM) 👋
 
 ### Frontend Developer | JavaScript Enthusiast | Problem Solver
 
@@ -43,14 +43,6 @@ When I'm not working with JavaScript, you'll find me experimenting with Python p
 **Full-Stack Projects**: Bringing ideas to life by connecting beautiful frontends with powerful backends.
 
 **Continuous Learning**: Always exploring new tools, frameworks, and methodologies to stay at the cutting edge of web development.
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://gh-stats-gen.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
-![Top Langs](https://gh-stats-gen.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
 
 ---
 
